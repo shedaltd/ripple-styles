@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icon / Heart / Outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.2017372,3.03116933 C19.0325973,3.03116933 21.2433963,5.01482348 21.8430155,8.01319077 C22.7959656,12.8877707 19.3731849,18.1308419 12.5880839,20.8887027 C12.4044263,20.9617298 12.2119331,21 12.0157916,21 C11.8196501,21 11.6271568,20.9617298 11.444144,20.8889588 C4.64688124,18.1921807 1.20453415,12.9413864 2.15581902,8.03589126 C2.73553458,5.01044491 4.95811872,3 7.79849052,3 C9.18384235,3 10.6191195,3.48546508 12.0207648,4.4077326 C13.4123063,3.50977468 14.8401836,3.03116933 16.2017372,3.03116933 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-Heart-/-Outline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Icon" stroke="#FFFFFF" stroke-width="2" xlink:href="#path-1"></use>
+    </g>
+</svg>

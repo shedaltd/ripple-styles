@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icon / Pause / round Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Podcast-Player" transform="translate(-161.000000, -302.000000)" fill="#529393">
+            <g id="Icon-/-Play" transform="translate(161.000000, 302.000000)">
+                <g id="play-border-filled">
+                    <path d="M52,26 C52,40.3595111 40.3595111,52 26,52 C11.6406044,52 0,40.3595111 0,26 C0,11.6406044 11.6406044,0 26,0 C40.3595111,0 52,11.6406044 52,26 Z M21.8587778,11.778 C19.9420867,10.4602044 17.3333333,11.8324844 17.3333333,14.15856 L17.3333333,37.8415556 C17.3333333,40.1674 19.9420867,41.5399111 21.8587778,40.222 L39.0826222,28.3804444 C40.7524,27.2326889 40.7524,24.7673111 39.0826222,23.6195556 L21.8587778,11.778 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
